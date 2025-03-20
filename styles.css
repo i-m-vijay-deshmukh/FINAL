@@ -7,6 +7,7 @@ body {
     text-align: center;
     overflow-x: hidden;
     overflow-y: auto;
+    height: 100%
 }
 
 /* Preloader Styles */
@@ -73,28 +74,28 @@ header {
     cursor: pointer;
 }
 #weather-section {
-    display: fixed;
     justify-content: center;
     margin-top: 20px;
     cursor: pointer;
+    display: block;
 
 }
 #chatbot-section {
-    display: fixed;
     justify-content: center;
     margin-top: 20px;
     cursor: pointer;
+    display: block;
 
 }#disease-section {
-    display: fixed;
     justify-content: center;
     margin-top: 20px;
     cursor: pointer;
+    display: block;
 
 }#news-section {
-    display: fixed;
     justify-content: center;
     margin-top: 20px;
     cursor: pointer;
+    display: block;
 
 }
